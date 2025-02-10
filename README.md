@@ -1,14 +1,15 @@
 <h3>Learning react project</h3>
 
-apple iphone clone website
+<h4>apple iphone clone website</h4>
 
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-GSAP (Greensock)
-Vite
-Tailwind CSS
+<p>
+React.js <br>
+Three.js <br>
+React Three Fiber <br>
+React Three Drei <br>
+GSAP (Greensock): npm install gsap @gsap/react <br>
+Vite <br>
+Tailwind CSS</p>
 
 # React + Vite
 
