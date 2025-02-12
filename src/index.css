@@ -28,7 +28,7 @@ canvas {
   position: relative;
   max-width: 1120px;
 }
-/* apply should not be used per tailwindcss creator */
+/* apply should not be used per tailwindcss creator!!! */
 @layer utilities {
   .flex-center {
     @apply flex items-center justify-center
