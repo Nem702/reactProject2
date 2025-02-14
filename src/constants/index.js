@@ -78,6 +78,24 @@ import {
     { label: '6.7"', value: "large" },
   ];
   
+  // footer links
+  // const footerLinks = [
+//   { name: 'Home', url: '/' },
+//   { name: 'About', url: '/about' },
+//   { name: 'Contact', url: '/contact' }
+// ];
+
+// return (
+//   <div className="flex">
+//     {footerLinks.map((link, i) => (
+//       <a key={link.name} href={link.url} className='font-semibold text-gray text-xs'>
+//         {link.name}{' '}
+//         {i !== footerLinks.length - 1 && (
+//           <span className='mx-2'> | </span>
+//         )}
+//       </a>
+//     ))}
+//   </div>
   export const footerLinks = [
     "Privacy Policy",
     "Terms of Use",
